@@ -8,7 +8,7 @@
   "env": {
     "TOKEN": {
       "description": "GitHub personal access token obtained from https://github.com/settings/tokens/new",
-      "required": false
+      "required": true
     }
   },
   "formation": {
